@@ -61,6 +61,7 @@
 - [SQL: создание таблиц](./sql/create_tables.sql)
 - [SQL: проверка данных](./sql/sql_checks.sql)
 - [SQL: аналитические запросы](./sql/sql_analysis.sql)
+- [Результаты запросов](./results/query_results.xlsx)
 - [Аналитические выводы](./Аналитические%20выводы%20проекта.docx)
 - [Презентация проекта](./Анализ%20лицензируемой%20медицинской%20деятельности%20Санкт-Петербурга%20(2015).pptx)
 - [Tableau — интерактивные дашборды](https://public.tableau.com/views/-2015_17875655821310/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
